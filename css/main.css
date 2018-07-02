@@ -69,6 +69,7 @@ h4 {
 }
 .col-md-7 {
   border:blue solid 3px;
+  /*overflow:hidden;*/
 }
 #sliderPrev {
   height: 35px;
@@ -84,6 +85,7 @@ h4 {
   border: black solid 3px;
   justify-content: space-between;
   align-items: center;
+  position: absolute;
 }
 #imageSlider img{
   width: 570px;
