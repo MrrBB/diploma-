@@ -1,2 +1,1 @@
-# diploma-
-# js-diploma
+# js-diploma1
